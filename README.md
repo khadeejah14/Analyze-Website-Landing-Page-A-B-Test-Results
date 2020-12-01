@@ -8,6 +8,6 @@ This project, you will be working to understand the results of an A/B test run b
 The probablity users converted in both control and treatment group are similar to each other
 therefore, there is no evidence that new page leads to more conversions.
 # Part II - A/B Test
-The z-score of 1.3109241984234394 does not exceed the critical value of 1.96, we fail to reject the null hypothesis that old page users has a better or equal converted rate than old page users.
+*we can not reject the null hypothesis beacuse the  value of z-score = 1.3109 does not exceed the critical value of 1.96.
 # Part III - Regression
 The result show there is no effect of the page and country on converted rate
